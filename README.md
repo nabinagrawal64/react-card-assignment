@@ -1,8 +1,16 @@
-# React + Vite
+# React Random User Card 🎨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that fetches a random user's data from the [RandomUser API](https://randomuser.me/) and displays it in a beautifully styled card using **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Fetches random user details including **name, gender, and phone number**.
+- Displays the user's **profile picture** from the API.
+- Uses **React Hooks (`useState`, `useEffect`)** to manage API data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
+ Clone the Repository ("git clone https://github.com/your-username/react-random-user-card.git" then  "cd react-random-user-card" )
+ and run the command "npm install"
+ then run "npm run dev"
+
+ it will redirect you to locaalhost:5173 to see the preview
+
