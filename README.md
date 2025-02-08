@@ -8,7 +8,7 @@ This is a simple React application that fetches a random user's data from the [R
 - Uses **React Hooks (`useState`, `useEffect`)** to manage API data.
 
 ## 📸 Preview
- Clone the Repository ("git clone https://github.com/your-username/react-random-user-card.git" then  "cd react-random-user-card" )
+ Clone the Repository ("git clone https://github.com/nabinagrawal64/react-card-assignment.git" then  "cd react-random-user-card" )
  and run the command "npm install"
  then run "npm run dev"
 
